@@ -1,2 +1,2 @@
 # Fullstackopen
-for ful-lstack course at JIT solutions
+for full-stack course at JIT solutions
